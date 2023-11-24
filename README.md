@@ -8,3 +8,5 @@ The **ESP32-S3** is a highly integrated, Wi-Fi & Bluetooth System-on-Chip (SoC) 
 - Support for AI workload acceleration, making it apt for edge computing in IoT applications.
 
 LG Cover, utilizing the ESP32-S3, will act as a bridge for devices that do not support Matter, thus contributing to the advancement of smart home and IoT solutions.
+
+[COVER - Matter Connection](https://youtu.be/kulvXAHLCEM)
